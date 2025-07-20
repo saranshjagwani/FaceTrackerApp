@@ -22,16 +22,16 @@ export const Navbar = () => {
           {/* Navigation Links */}
           <div className="hidden md:flex space-x-8">
             <a
+              href="/"
+              className="text-gray-600 hover:text-blue-600 transition-colors duration-200 font-medium"
+            >
+              Home
+            </a>
+                <a
               href="#features"
               className="text-gray-600 hover:text-blue-600 transition-colors duration-200 font-medium"
             >
               Features
-            </a>
-            <a
-              href="#about"
-              className="text-gray-600 hover:text-blue-600 transition-colors duration-200 font-medium"
-            >
-              About
             </a>
           </div>
         </div>
