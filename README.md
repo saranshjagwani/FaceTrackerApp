@@ -12,7 +12,7 @@ A **frontend-only** Next.js application that performs **real-time face detection
 ---
 
 ## 📹 Demo Video
-🎬 [Watch Demo on YouTube](https://www.youtube.com/watch?v=UWEHEiEjHNk)
+🎬 [Watch Demo on YouTube](https://youtu.be/tWF-g_qIvkw)
 
 ---
 
@@ -104,16 +104,6 @@ npm run start
 * Deployed on [Netlify](https://netlify.com/) as a static frontend app.
 * No backend required.
 * Ensure `/public/models/` is included in version control or re-added post-deploy.
-
----
-
-## 📸 Screenshots
-
-> *Paste an image here or upload to GitHub and use the raw link.*
-
-```
-![App Preview]()
-```
 
 ---
 
